@@ -1,0 +1,31 @@
+.skill {
+  color: white;
+  font-family: Calibri;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.ogcd {
+  margin-left: 20px;
+}
+
+.done {
+  color: green;
+  font-family: Calibri;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  opacity: 0.5;
+}
+
+.missed {
+  color: red;
+  font-family: Calibri;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  opacity: 0.5;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  display: none;
+}
